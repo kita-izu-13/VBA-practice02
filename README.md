@@ -22,6 +22,9 @@ VBAの応用学習として作成しました。<br>
 ## レベル<br>
 Lebel16　配列＋重複チェック<br>
 Lebel17　Dictionary(連想配列)<br>
+Lebel18　１Dictionaryでカテゴリ集計<br>
+　　　　　２配列を使った高速集計<br>
+　　　　　３条件付きデータ抽出<br>
 　> [▲ トップへ戻る](#top)
 
 ## 使用環境と技術<br>
@@ -47,6 +50,7 @@ Lebel17　Dictionary(連想配列)<br>
 2026年3月30日　Level16<br>
 2026年4月1日　配列の復習<br>
 2026年4月2日　Level17<br>
+2026年4月3日　Level18 1,2<br>
 　　　> [▲ トップへ戻る](#top)
    
 ## 制作物<br>
