@@ -25,6 +25,7 @@ Lebel17　Dictionary(連想配列)<br>
 Lebel18　１Dictionaryでカテゴリ集計<br>
 　　　　　２配列を使った高速集計<br>
 　　　　　３条件付きデータ抽出<br>
+Lebel19　処理の組み合わせ<br>
 　> [▲ トップへ戻る](#top)
 
 ## 使用環境と技術<br>
